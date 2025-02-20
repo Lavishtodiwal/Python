@@ -1,0 +1,5 @@
+line = input("Enter some line of the rythm of the nursory:")
+print(len(line))
+starting = int(input("Enter the starting "))
+ending = int(input("Enter the ending "))
+print(line[starting:ending])
