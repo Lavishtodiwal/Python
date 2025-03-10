@@ -6,7 +6,7 @@ name= "python"
 # print(name[2:])-> thon
 # print(name[1:-3])
 
-#in this case negetive indexing will be considered as the positive for e.g. in case of index 1 and negetive will considered as positive index but it will never run backword means not from -1 to -5 and not from 5 to 1 so in these case this will show the blank space
+#in this case negetive indexing will be considered as the positive for e.g. in case of index 1 anhd negetive will considered as positive index but it will never run backword means not from -1 to -5 and not from 5 to 1 so in these case this will show the blank space
 # print(name[-4:-1])
 # print(name[0:5:1]) #-> 
 #in the above case the string will print from 0 to 

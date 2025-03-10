@@ -9,3 +9,5 @@
 # print(str(b))
 # print(type(b))
 
+
+print("laci", "klfds", sep="\n")
