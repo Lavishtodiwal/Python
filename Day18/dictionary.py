@@ -53,3 +53,4 @@ for student_key, student_value in a.items():
                 print(f"{subject_key}: {subject_value}")
         else:
              print(f"{info_key}: {info_value}")
+             
