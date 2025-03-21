@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Buy groceries",
+        "priority": "High"
+    },
+    {
+        "task": "Complete Python project",
+        "priority": "Medium"
+    },
+    {
+        "task": "Exercise",
+        "priority": "Low"
+    }
+]

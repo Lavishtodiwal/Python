@@ -28,14 +28,16 @@
 
 # --------------------2nd Method of performing the file handling -----------------------------
 
+# with is used to remove the error exception in case we dont use the .close so here use of with and here is not need to write the close the file 
 with open("demo.txt", "r") as f:
     data = f.read()
     print(data)
 
 #to delete a file use os import and use it 
+
 import os
 with open("sample.txt", "w+") as n:
     n.write("This is the remove function use")
     print(n.read())
-    n.close()
+    # n.close()
     os.remove("sample.txt")
